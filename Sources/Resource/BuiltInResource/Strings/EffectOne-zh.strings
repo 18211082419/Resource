@@ -2,7 +2,7 @@
 "eo_error_network" = "网络错误";
 
 //base
-"eo_base_addsound" = "添加音乐";
+"eo_base_addsound" = "添加音乐111";
 "eo_base_addmusic_musiclibrary" = "音乐库";
 "eo_base_item_none" = "无";
 "eo_base_musicvoice_original_sound" = "原声";
@@ -54,7 +54,7 @@
 "eo_trackeditor_replace" = "替换";
 "eo_trackeditor_delete" = "删除";
 
-"eo_trackeditor_sound_addmusic" = "添加音乐";
+"eo_trackeditor_sound_addmusic" = "添加音乐111";
 "eo_trackeditor_sound_replacemusic" = "替换音乐";
 "eo_trackeditor_sound_addsoundeffects" = "添加音效";
 "eo_trackeditor_cancel" = "取消";
