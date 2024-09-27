@@ -74,7 +74,7 @@
 "eo_trackeditor_add_sound_effects_limit_tips" = "添加音效不能超过%@个";
 
 "eo_previeweditor_voice_tip" = "使用音色来改变你的声音或录音";
-"eo_previeweditor_voice_record" = "录音";
+"eo_previeweditor_voice_record" = "录音111";
 "eo_previeweditor_voice_viewing" = "浏览录音";
 "eo_previeweditor_voice_original_sound" = "原声";
 "eo_previeweditor_voice_overlay" = "添加录音以便使用音色";
@@ -90,7 +90,7 @@
 "eo_previeweditor_apply_to_all" = "应用到全部";
 
 //record
-"eo_camera_flip" = "镜头翻转";
+"eo_camera_flip" = "镜头翻转1111";
 "eo_camera_flash" = "闪光灯";
 "eo_camera_timer" = "倒计时444444";
 "eo_camera_filters" = "滤镜";
